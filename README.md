@@ -32,6 +32,8 @@ In a nutshell, Knit & Purl is a funky AI powered app that uses the Vertex AI to 
 ## Video Demos 📹
 __App Demo Here (Youtube) >>>__ [Three minute app demo](https://youtu.be/kY8iEYwwsJ0)
 
+__Low Code Solution Walkthrough Here (Youtube) >>>__ [Five minute low code walkthrough](https://youtu.be/3I6QgtqWPj4)
+
 ## Responsible AI 👩‍🏫
 * The app contains numerous disclaimers that it is powered by AI, providing transparancy for users.
 * Users can chose to view extra information on all screen of the app. The extra infomration lets users know that the knitting instructions are created by AI so are not to be 100% relied on. This screen also provides links to further reading on the ethics of AI, laid out by UNESCO [Link to UNESCO Guidence Here](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
