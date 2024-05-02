@@ -1,0 +1,54 @@
+{
+  "unpublishedPage": {
+    "name": "Random Pattern Results",
+    "slug": "random-pattern-results",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 640,
+          "containerStyle": "none",
+          "snapRows": 56,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 89,
+          "minHeight": 580,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0
+        },
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Random Pattern Results_Knitting_Instructions_Random",
+              "name": "Knitting_Instructions_Random",
+              "confirmBeforeExecute": false,
+              "pluginType": "AI",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 60000
+            }
+          ]
+        ],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Random Pattern Results",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "6612b2e36c17982247cd84f5_238214d4-e7b2-4111-9a97-4b6109ea758e"
+}
